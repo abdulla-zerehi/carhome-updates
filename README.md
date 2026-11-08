@@ -16,6 +16,8 @@ After the first install, Car Home updates itself: an orange **Update** button ap
 
 📖 Guide: **[PDF](guide/CarHome-Guide.pdf)** · **[Video](guide/CarHome-Guide.mp4)** (Arabic)
 
+💬 Questions and news: **[Telegram t.me/carhomeapp](https://t.me/carhomeapp)**
+
 ## What it does
 
 | | |
@@ -67,7 +69,7 @@ Car Home has no account and collects no personal data. Car data is read and show
 **Is it really free?** Yes.
 **Does it change my car?** Only when you press a car setting yourself, and only in P. Settings you changed stay as you set them; uninstalling the app does not undo them.
 **The map is black.** Press *Stop panel*, then tap the map again.
-**My model is not listed.** Try it and open an issue with your model and DiLink version.
+**My model is not listed.** Try it and tell us your model and DiLink version on [Telegram](https://t.me/carhomeapp) or in an issue.
 
 ---
 
