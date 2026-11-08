@@ -2,6 +2,6 @@
  "versionCode": 4,
  "versionName": "0.4",
  "apk": "https://github.com/abdulla855/carhome-updates/releases/download/v0.4/CarHome-0.4.apk",
- "sha256": "7dad9cea3bb0372b5b95408dfa094c1391946c344b9eb29227c14cce16e5da21",
+ "sha256": "a4f1957f8d808c5abd6901835c20f37020dc4336d3b9b9d749b2432ad3772306",
  "notes": "Energy: Energy Manager, Driving Energy Consumption, Trip Statistics\nTarget SOC slider like the car's own\nTop bar icons with a sliding tab\nSafer updates"
 }
