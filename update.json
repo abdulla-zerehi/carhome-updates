@@ -1,7 +1,7 @@
 {
- "versionCode": 11,
- "versionName": "1.1",
- "apk": "https://github.com/abdulla855/carhome-updates/releases/download/v1.1/CarHome-1.1.apk",
- "sha256": "9769af51ada4e7339716b06d6faa27311dbb37c90dab27408899179dd0a0302c",
- "notes": "Before you start: setup check on first start\nVersion and Check for updates on the Connect page\nCheck setup any time from Connect"
+ "versionCode": 12,
+ "versionName": "1.2",
+ "apk": "https://github.com/abdulla855/carhome-updates/releases/download/v1.2/CarHome-1.2.apk",
+ "sha256": "eece0bbcda373b0f41dd1e0a05e1e411b74f6d52887b4030cc91f4f7e15532f9",
+ "notes": "Start with the car: uses earlier car starts from the app log\nClearer setup hints"
 }
