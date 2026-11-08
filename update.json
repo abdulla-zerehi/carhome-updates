@@ -1,7 +1,7 @@
 {
- "versionCode": 6,
- "versionName": "0.6",
- "apk": "https://github.com/abdulla855/carhome-updates/releases/download/v0.6/CarHome-0.6.apk",
- "sha256": "da547b14274210190881ebfedfdd96dd0f9d4d129538285e21ed8183cf76d8b0",
- "notes": "Update test: download bar with percentage\nTyres: Front and Rear labels, pressure and temperature on Vehicle\nUpdate card now shows above the map"
+ "versionCode": 8,
+ "versionName": "0.8",
+ "apk": "https://github.com/abdulla855/carhome-updates/releases/download/v0.8/CarHome-0.8.apk",
+ "sha256": "196dab0764ea84cfc3cc793497166e2d25b893b845f2f7cd337a68f32f282daf",
+ "notes": "Updates now install on their own line\nDownload bar with percentage\nTyres: Front and Rear labels, pressure and temperature"
 }
