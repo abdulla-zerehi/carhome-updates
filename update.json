@@ -1,7 +1,7 @@
 {
- "versionCode": 8,
- "versionName": "0.8",
- "apk": "https://github.com/abdulla855/carhome-updates/releases/download/v0.8/CarHome-0.8.apk",
- "sha256": "196dab0764ea84cfc3cc793497166e2d25b893b845f2f7cd337a68f32f282daf",
- "notes": "Updates now install on their own line\nDownload bar with percentage\nTyres: Front and Rear labels, pressure and temperature"
+ "versionCode": 10,
+ "versionName": "1.0",
+ "apk": "https://github.com/abdulla855/carhome-updates/releases/download/v1.0/CarHome-1.0.apk",
+ "sha256": "e492f0f5126ccb00fa882bd50605760ace79db1b602fe1759027bc094c74157d",
+ "notes": "Car Home 1.0\nUpdates install by themselves\nDownload bar with percentage\nTyres: Front and Rear labels, pressure and temperature"
 }
