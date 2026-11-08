@@ -1,3 +1,5 @@
+**English** · [العربية](README.ar.md)
+
 # Car Home
 
 **A cleaner home screen for BYD cars.** Speed, gear, battery, tyres, live Waze map, media, radio and weather on one screen — plus the car's energy pages, climate and settings, designed for driving.
