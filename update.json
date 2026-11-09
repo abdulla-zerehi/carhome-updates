@@ -3,5 +3,5 @@
  "versionName": "1.6",
  "apk": "https://github.com/abdulla-zerehi/carhome-updates/releases/download/v1.6/CarHome-1.6.apk",
  "sha256": "9e71e888fcdfc2d36ee1a83c55f747abcbca4c14ae6676a248096457b6fdd27a",
- "notes": "1.6: Arabic layout fixes, driver side kept on Vehicle, charge tracking\n1.5: Arabic interface (Connect › Language)\n1.5: Problem reports, encrypted, can be turned off on Connect\n1.5: Telegram group on the Connect page"
+ "notes": "1.6: Arabic fixes, driver side on Vehicle, charge tracking\n1.5: Arabic interface (Connect › Language)\n1.5: Problem reports, encrypted, can be turned off\n1.5: Telegram group on the Connect page"
 }
