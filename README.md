@@ -29,7 +29,7 @@ After the first install, Car Home updates itself: an orange **Update** button ap
 | **Energy** | Overview of motors and engine · Energy Manager (SAVE, SAVE memory, target SOC 20–70%) · consumption of the last 50 km · daily trip statistics |
 | **Media** | Follows what is playing: radio, YouTube Music or the car's player |
 | **Radio** | Tested internet stations from the UAE, Gulf, Egypt, UK and US · favourites you can reorder by dragging · steering wheel next / previous |
-| **Connect** | Data roaming, mobile data, Wi-Fi, day / night look, open on start, version and update check |
+| **Connect** | Data roaming, mobile data, Wi-Fi, day / night look, language (English / العربية), open on start, problem reports, Telegram group, version and update check |
 
 <p>
 <img src="screenshots/02-vehicle.png" width="49%"> <img src="screenshots/03-energy-overview.png" width="49%">
@@ -64,7 +64,12 @@ After the first install, Car Home updates itself: an orange **Update** button ap
 
 ## Privacy
 
-Car Home has no account and collects no personal data. Car data is read and shown on the car only. The only thing sent out is an anonymous count (one tiny file download per install and per day) so we know how many cars use it — no ID, no location, no car data.
+Car Home has no account and collects no personal data. Car data is read and shown on the car only. Two things are sent out:
+
+- **An anonymous count** (one tiny file download per install and per day) so we know how many cars use it.
+- **Problem reports** (from version 1.5) so we can fix problems without you having to tell us: when the app crashes, when the car connection or setup does not work, when an update fails, and once per version a short health check. A report holds the car model, Android version, screen size, app version, which setup steps work, the error and the last lines of the app's technical log. It holds **no name, no location, no messages and no music**, only a random number made on install so reports from the same car can be grouped.
+
+Reports are **encrypted on the car** (RSA + AES-256) before they leave it, and only our server can read them. Turn them off any time: **Connect › Send problem reports**.
 
 ## Questions
 
