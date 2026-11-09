@@ -1,7 +1,7 @@
 {
- "versionCode": 15,
- "versionName": "1.5",
- "apk": "https://github.com/abdulla-zerehi/carhome-updates/releases/download/v1.5/CarHome-1.5.apk",
- "sha256": "50083a875722871d7dcd00ba4c8c16ea6a5cd7e8bc235bb2a5c41adc22d603b3",
- "notes": "Arabic interface: Connect \u203a Language\nProblem reports: we fix problems without you telling us (encrypted, can be turned off on Connect)\nCar Home Telegram group on the Connect page\nFixes and improvements"
+ "versionCode": 16,
+ "versionName": "1.6",
+ "apk": "https://github.com/abdulla-zerehi/carhome-updates/releases/download/v1.6/CarHome-1.6.apk",
+ "sha256": "1b017c1b1d0883947783d57a0cd16de8f20fd92ad2e68e1cdca0bf35d9f55080",
+ "notes": "Arabic: Home cards read right to left, speed and gear stay as in English\nArabic city names and dates, degree signs fixed\nPlay controls never mirrored\nSince last charge now catches charging while the car was off\nFixes"
 }
