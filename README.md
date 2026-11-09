@@ -58,7 +58,7 @@ After the first install, Car Home updates itself: an orange **Update** button ap
 
 ## Safety
 
-- Changes to the car (SAVE, target SOC, climate) only work while the car is in **P**.
+- **SAVE** can be switched on or off while driving, as on the car's own Energy manager. Other changes to the car (SAVE memory, target SOC, climate) only work while the car is in **P**.
 - Updates install only in **P**, and only if the file is signed by us — a changed copy is refused.
 - Keep your eyes on the road. Car Home is a display; the car's own systems stay in charge.
 
