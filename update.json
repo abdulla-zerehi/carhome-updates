@@ -2,6 +2,6 @@
  "versionCode": 16,
  "versionName": "1.6",
  "apk": "https://github.com/abdulla-zerehi/carhome-updates/releases/download/v1.6/CarHome-1.6.apk",
- "sha256": "1b017c1b1d0883947783d57a0cd16de8f20fd92ad2e68e1cdca0bf35d9f55080",
- "notes": "Arabic: Home cards read right to left, speed and gear stay as in English\nArabic city names and dates, degree signs fixed\nPlay controls never mirrored\nSince last charge now catches charging while the car was off\nFixes"
+ "sha256": "9e71e888fcdfc2d36ee1a83c55f747abcbca4c14ae6676a248096457b6fdd27a",
+ "notes": "Arabic: Home cards read right to left, speed and gear stay as in English\nArabic: Vehicle page keeps the car's real sides (driver on the left)\nArabic city names and dates, degree signs fixed\nPlay controls never mirrored\nSince last charge now catches charging while the car was off"
 }
