@@ -2,6 +2,6 @@
  "versionCode": 10701,
  "versionName": "1.7.1",
  "apk": "https://github.com/abdulla-zerehi/carhome-updates/releases/download/v1.7.1/CarHome-1.7.1.apk",
- "sha256": "18ffd8de1d11ab382b630ceec379b2dcea3c5a461ddc5e0e9c118433a6c272db",
- "notes": "v1.7.1: Seat heating and ventilation work again\nv1.7.1: Small fixes\nv1.7: Voice assistant on the steering wheel mic button\nv1.7: Wide map with mini player \u00b7 outside speaker"
+ "sha256": "56ff5a95a3f689dc4bde974c05b14ad867f8959549e869ed8142a59f5e7be147",
+ "notes": "v1.7.1: Seat buttons step 1 \u00b7 2 \u00b7 3 \u00b7 off, and work again\nv1.7.1: Small fixes\nv1.7: Voice assistant on the steering wheel mic button\nv1.7: Wide map with mini player \u00b7 outside speaker"
 }
