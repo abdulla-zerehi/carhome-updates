@@ -1,7 +1,7 @@
 {
- "versionCode": 10601,
- "versionName": "1.6.1",
- "apk": "https://github.com/abdulla-zerehi/carhome-updates/releases/download/v1.6.1/CarHome-1.6.1.apk",
- "sha256": "72e148e875b88b13d38ab8328f59665c73729a560eb26905a8a51306ec2dabc8",
- "notes": "v1.6.1: Doors, windows and climate update in seconds\nv1.6.1: Self-driving icon (Huawei ADS), GPS-first speed\nv1.6: Arabic fixes, SAVE switch while driving\nv1.6: Faster gear, centred speed, new clock"
+ "versionCode": 10602,
+ "versionName": "1.6.2",
+ "apk": "https://github.com/abdulla-zerehi/carhome-updates/releases/download/v1.6.2/CarHome-1.6.2.apk",
+ "sha256": "9385a05f22bf06d65121f0fe15f38500e6713c2c5d69b6d06825dd2549d2e2f0",
+ "notes": "v1.6.2: Map panel restarts by itself after the car wakes\nv1.6.2: Telegram card layout fix\nv1.6.1: Doors, windows and climate update in seconds\nv1.6.1: Self-driving icon (Huawei ADS), GPS-first speed"
 }
