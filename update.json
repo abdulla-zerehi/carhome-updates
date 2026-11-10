@@ -1,7 +1,7 @@
 {
- "versionCode": 16,
- "versionName": "1.6",
- "apk": "https://github.com/abdulla-zerehi/carhome-updates/releases/download/v1.6/CarHome-1.6.apk",
- "sha256": "a6bfe833b402fedcdfd776290adc2b21c96a780ff6aa447d0aa82e37f2e4b72c",
- "notes": "1.6: SAVE while driving, gear shows within a second\n1.6: Arabic fixes, driver side on Vehicle, charge tracking\n1.5: Arabic interface, Telegram group on Connect\n1.5: Problem reports, encrypted, can be turned off"
+ "versionCode": 10601,
+ "versionName": "1.6.1",
+ "apk": "https://github.com/abdulla-zerehi/carhome-updates/releases/download/v1.6.1/CarHome-1.6.1.apk",
+ "sha256": "72e148e875b88b13d38ab8328f59665c73729a560eb26905a8a51306ec2dabc8",
+ "notes": "v1.6.1: Doors, windows and climate update in seconds\nv1.6.1: Self-driving icon (Huawei ADS), GPS-first speed\nv1.6: Arabic fixes, SAVE switch while driving\nv1.6: Faster gear, centred speed, new clock"
 }
