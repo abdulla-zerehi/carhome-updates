@@ -1,7 +1,7 @@
 {
- "versionCode": 10807,
- "versionName": "1.8.5.1",
- "apk": "https://github.com/abdulla-zerehi/carhome-updates/releases/download/v1.8.5.1/CarHome-1.8.5.1.apk",
- "sha256": "544a1abdb8cf213e0227fe0722f91efb9d58f7dd391b827da54359203d636433",
- "notes": "1.8.5.1: Gulf fuel and power prices in your currency\nRear seat cooling/heating on more cars, right levels\n1.8.5: drive cost cards, seat cooling fix\nFaster car readings and fixes"
+ "versionCode": 10808,
+ "versionName": "1.8.5.2",
+ "apk": "https://github.com/abdulla-zerehi/carhome-updates/releases/download/v1.8.5.2/CarHome-1.8.5.2.apk",
+ "sha256": "bd25abcd8afecd8952ae92b87a2e19fa8863b3fb1a779524ea04d6a5aea2dd7b",
+ "notes": "1.8.5.2: Waze panel starts more reliably\nSeat cooling/heating fixes for fast taps\nClearer car connection (ADB) messages\nOutside speaker only on cars that have one"
 }
