@@ -23,13 +23,15 @@
     "YQP92VW3",
     "ZQKYTH2R",
     "SSUJFFAT",
-    "U38LWTPJ"
+    "U38LWTPJ",
+    "FDSKLTNS",
+    "ENCP95CL"
    ],
-   "versionCode": 10822,
-   "versionName": "1.8.7.1",
-   "apk": "https://github.com/abdulla-zerehi/carhome-updates/releases/download/v1.8.7.1/CarHome-1.8.7.1-6d5279b5.apk",
-   "sha256": "6d5279b5990c92b2326ef0ec3322339be53706f3d06a9a1a8a9453122f7000cd",
-   "notes": "• إصلاح اللوحة وقراءات السيارة في DiLink 5.0\n• Fixed panel and car readings on DiLink 5.0"
+   "versionCode": 10823,
+   "versionName": "1.8.7.2",
+   "apk": "https://github.com/abdulla-zerehi/carhome-updates/releases/download/v1.8.7.2/CarHome-1.8.7.2-02c9f16f.apk",
+   "sha256": "02c9f16fab30521fea743a1e2bf3d8ebc0a54322c34f2672809dc40155b022c6",
+   "notes": "• إصلاحات لسيارات DiLink 5.0 والسيارات الكهربائية: تظهر فقط الخصائص الموجودة في سيارتك\n• الطقس باسم مدينتك والعملة حسب دولتك\n• دعم السيارات بمقود على اليمين\n• Fixes for DiLink 5.0 and electric cars: only the features your car has are shown\n• Weather shows your city, prices in your currency\n• Right-hand-drive support"
   }
  ]
 }
