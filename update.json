@@ -52,11 +52,11 @@
     "ZQKYTH2R",
     "VCXMMF88"
    ],
-   "versionCode": 10823,
-   "versionName": "1.8.7.2",
-   "apk": "https://github.com/abdulla-zerehi/carhome-updates/releases/download/v1.8.7.2/CarHome-1.8.7.2-02c9f16f.apk",
-   "sha256": "02c9f16fab30521fea743a1e2bf3d8ebc0a54322c34f2672809dc40155b022c6",
-   "notes": "• إصلاحات لسيارات DiLink 5.0 والسيارات الكهربائية: تظهر فقط الخصائص الموجودة في سيارتك\n• الطقس باسم مدينتك والعملة حسب دولتك\n• دعم السيارات بمقود على اليمين\n• Fixes for DiLink 5.0 and electric cars: only the features your car has are shown\n• Weather shows your city, prices in your currency\n• Right-hand-drive support"
+   "versionCode": 10825,
+   "versionName": "1.8.7.4",
+   "apk": "https://github.com/abdulla-zerehi/carhome-updates/releases/download/v1.8.7.4/CarHome-1.8.7.4-0715bdee.apk",
+   "sha256": "0715bdeeb09d04c714850197d74f5bdb1819b8c7de9d8da6316f3d47a4589e9b",
+   "notes": "Fix: charging status now shows correctly"
   }
  ]
 }
